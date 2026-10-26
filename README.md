@@ -7,7 +7,6 @@ HackNear is my first web development project. It is a website designed to help s
 - Search and filter events
 - Bookmark hackathons
 - Create teams and manage friends
-- Dark mode
 - Responsive design
 
 ## Technologies Used
